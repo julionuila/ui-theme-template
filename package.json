@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "name": "honk-honk-ui",
+=======
+  "name": "Honk-honk-ui",
+>>>>>>> Stashed changes
   "theme": "ui",
   "version": "1.0.0",
   "description": "Gose goes honk",
